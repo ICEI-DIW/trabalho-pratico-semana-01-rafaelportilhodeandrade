@@ -7,7 +7,8 @@ Nome: Rafael Portilho de Andrade
 Matricula: 890258
 
 ## Tela de inspeção com navegador
-
+![Tela de inspeção com navegador](./atvdd_smn1_3.png)
 
 ## Tela de projeto no Replit
-
+![Tela de inspeção com navegador](./atvdd_smn1.png)
+![Tela de inspeção com navegador](./atvdd_smn1_2.png)
